@@ -1,12 +1,22 @@
 # Project Roadmap
 X-Create Repository
+
 X-Create readme
+
 X-Find code reference
+
 Add license to file
+
 X-Create projectroadmap.md file
+
 Create code
+
 Test code and make sure everything is working correctly
+
 Fix any issues
+
 Update Readme to make sure it is accurate with the code
+
 Run final test
+
 Submit project
