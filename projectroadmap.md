@@ -5,7 +5,7 @@ X-Create readme
 
 X-Find code reference
 
-Add license to file
+X-Add license to file
 
 X-Create projectroadmap.md file
 
