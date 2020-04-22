@@ -20,5 +20,4 @@ def Name():
 			import boynames.txt
 		if gender=girl:
 			import girlnames.txt
-		else:
-			print("Please state if the baby is a boy or girl.")
+		
