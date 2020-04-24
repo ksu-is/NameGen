@@ -9,7 +9,9 @@ X-Add license to file
 
 X-Create projectroadmap.md file
 
-Create code
+X-Create code
+
+X-Create Splash Page
 
 Test code and make sure everything is working correctly
 
