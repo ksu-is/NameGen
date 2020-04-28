@@ -13,12 +13,12 @@ X-Create code
 
 X-Create Splash Page
 
-Test code and make sure everything is working correctly
+X-Test code and make sure everything is working correctly
 
-Fix any issues
+X-Fix any issues
 
-Update Readme to make sure it is accurate with the code
+X-Update Readme to make sure it is accurate with the code
 
-Run final test
+X-Run final test
 
-Submit project
+X-Submit project
